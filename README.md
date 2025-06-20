@@ -64,3 +64,6 @@ Discuss how identity, micro-segmentation, and continuous verification are
 implemented for device-level security.
 
 
+Team members : 
+MunaKhalil
+Malak Mustafa
